@@ -49,22 +49,10 @@
     <summary>💻 Profile</summary>
     <br/>
 
-| [![Jadhiel Vélez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadhielv&show_icons=true&text_color=f8f8f2&hide_title=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)	| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadhielv&layout=compact&text_color=f8f8f2&langs_count=8&hide_title=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)	|
+| [![Jadhiel Vélez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadhielv&show_icons=true&text_color=f8f8f2&hide_title=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)	| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apollo-man&layout=compact&text_color=f8f8f2&langs_count=8&hide_title=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)	|
 |---	                                                                                                                  |---
 
 ***NOTE**: Top languages do not indicate my skill level or something like that, it's a GitHub metric of which languages I've the most code.*
 </details>
 
 
-<details>
-    <summary>⚡ Recent Activity</summary>
-    <br/>
-    
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#142](https://github.com/Juguetear/juguetear-web/issues/142) in [Juguetear/juguetear-web](https://github.com/Juguetear/juguetear-web)
-2. 🎉 Merged PR [#224](https://github.com/Jadhielv/opus-web/pull/224) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
-3. 💪 Opened PR [#57](https://github.com/Streamelopers/opus-web/pull/57) in [Streamelopers/opus-web](https://github.com/Streamelopers/opus-web)
-4. ❌ Closed PR [#223](https://github.com/Jadhielv/opus-web/pull/223) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
-5. 🎉 Merged PR [#222](https://github.com/Jadhielv/opus-web/pull/222) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
-<!--END_SECTION:activity-->
-</details>
